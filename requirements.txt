@@ -4,3 +4,4 @@ tk
 pillow
 ipywidgets
 ipycanvas
+prettytable
